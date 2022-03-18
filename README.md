@@ -46,7 +46,7 @@ CMakeLists.txt - everywhere under #Modified
 .vscode/launch.json - CPU and Paths
 
 ## TODO
-Intelisence highligting (.vscode/c_cpp_properties.json needs to be adjusted.
+Intelisence highligting (.vscode/c_cpp_properties.json needs to be adjusted.</br>
 Workaround: "C_Cpp.errorSquiggles": "Disabled" -> "Enabled" (**not recommended**)
 
 ## Known issues
