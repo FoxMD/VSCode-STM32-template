@@ -46,7 +46,7 @@ CMakeLists.txt - everywhere under #Modified
 .vscode/launch.json - CPU and Paths
 
 ## TODO
-Intelisence highligting (.vscode/c_cpp_properties.json needs to be adjusted)
+Intelisence highligting (.vscode/c_cpp_properties.json needs to be adjusted, workaround: "C_Cpp.errorSquiggles": "Disabled" **not recomended**)
 
 ## Known issues
 - Generated files (.hex, .bin) are bigger with same compiler settings then in STM32-CUBE IDE   
