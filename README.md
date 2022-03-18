@@ -27,7 +27,7 @@ STM32CubeProgrammer
 ST-Link_gdbserver
 ```
 ### Manual install
-CMake - [Download, install](https://https://cmake.org/download/) </br>
+CMake - [Download, install](https://cmake.org/download/) </br>
 Ninja - [Standalone version](https://github.com/ninja-build/ninja/releases)
 
 ### VSCode
